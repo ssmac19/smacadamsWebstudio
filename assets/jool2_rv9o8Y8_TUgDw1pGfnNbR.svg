@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.16 657.39">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+        font-family: Elmasive, Elmasive;
+        font-size: 458.14px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="uuid-3d0a16dc-29d5-4861-a4b8-910a53728b59" data-name="Layer 1-2">
+      <g class="cls-2">
+        <text class="cls-4" transform="translate(380.94 0) rotate(90) scale(1 -1)"><tspan x="0" y="0">j</tspan></text>
+        <text class="cls-1" transform="translate(380.18 112.35) rotate(90) scale(1 -1)"><tspan x="0" y="0">o</tspan></text>
+        <text class="cls-3" transform="translate(380.25 329.11) rotate(90) scale(1 -1)"><tspan x="0" y="0">o</tspan></text>
+        <text class="cls-5" transform="translate(380.94 657.39) rotate(-90)"><tspan x="0" y="0">j</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
